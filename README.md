@@ -1,0 +1,5 @@
+## Hello Cargo: A Rust Tutorial Project
+
+This project was taken from [one of the very first chapters](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html) the official Rust publication, [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html). I began reading in 2024 as an introduction to the Rust language, both to prepare for some *possible* contract work, and to expand my skillset and introduce myself to more system-level programming and its many nuances. Eventually, I did regret not pushing this work to GitHub, and created this repository to be perminant evidence of the work completed. 
+
+As per the linked information, this project was a followup to the *actual* Hello World, meant to be an introduction to Rust's favored package manager Cargo, and to introduce the reader to the concepts of the `Cargo.toml` and `Cargo.lock` files, as well as to a Cargo project's basic organization and compilation commands.
